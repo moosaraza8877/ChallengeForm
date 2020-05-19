@@ -1,0 +1,10 @@
+C:\Users\Moosa Raza\Documents\Programming\ChallengeForm\ChallengeForm\bin\Debug\ChallengeForm.exe.config
+C:\Users\Moosa Raza\Documents\Programming\ChallengeForm\ChallengeForm\bin\Debug\ChallengeForm.exe
+C:\Users\Moosa Raza\Documents\Programming\ChallengeForm\ChallengeForm\bin\Debug\ChallengeForm.pdb
+C:\Users\Moosa Raza\Documents\Programming\ChallengeForm\ChallengeForm\obj\Debug\ChallengeForm.csprojAssemblyReference.cache
+C:\Users\Moosa Raza\Documents\Programming\ChallengeForm\ChallengeForm\obj\Debug\ChallengeForm.Form1.resources
+C:\Users\Moosa Raza\Documents\Programming\ChallengeForm\ChallengeForm\obj\Debug\ChallengeForm.Properties.Resources.resources
+C:\Users\Moosa Raza\Documents\Programming\ChallengeForm\ChallengeForm\obj\Debug\ChallengeForm.csproj.GenerateResource.cache
+C:\Users\Moosa Raza\Documents\Programming\ChallengeForm\ChallengeForm\obj\Debug\ChallengeForm.csproj.CoreCompileInputs.cache
+C:\Users\Moosa Raza\Documents\Programming\ChallengeForm\ChallengeForm\obj\Debug\ChallengeForm.exe
+C:\Users\Moosa Raza\Documents\Programming\ChallengeForm\ChallengeForm\obj\Debug\ChallengeForm.pdb
